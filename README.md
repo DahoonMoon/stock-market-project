@@ -65,6 +65,8 @@ $ java -jar build/libs/stock-0.0.1-SNAPSHOT.jar
 * stock_price : 시간대별 주식 종목별 가격, 거래량 테이블
 * member : 회원 정보 테이블
 * ERD<br>
+![image](https://github.com/DahoonMoon/stock-market-project/assets/99177478/837ec73f-1ddd-403c-8393-e9b204e9157b)
+
 
 ### 3. 데이터 생성
 
